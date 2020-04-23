@@ -1,0 +1,88 @@
+.custom-btn{
+    background-color: #a22f36;
+    color: #fff;
+    border-radius: 0px;
+    width: max-content;
+    
+} 
+.header{
+    background-color: #f6f6f6;
+}
+.form-header{
+    margin-top: 10px;
+}
+.cus-nav .navbar{
+    padding: 0;
+}
+.cus-nav{
+    background-color: #303030 !important; 
+    border-bottom: 3px solid #a22f36 !important;
+}
+.cus-nav ul li{
+    padding: 15px
+}
+.cus-nav a{
+    color: #fff !important;
+    text-transform: uppercase;
+}
+.cus-nav ul li:hover{
+    background-color: #a22f36;
+}
+.cus-banner{
+    background-image: url('../theme1/images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 588px;
+    margin-bottom: 0px;
+}
+.cus-banner-text{
+    color: white;
+    padding: 52px;
+}
+.cus-banner-text h3,
+.cus-banner-text h4{
+    text-transform: uppercase;
+}
+.cus-banner-text p{
+    width: 500px;
+}
+.custom-main-left{
+    margin-top: 20px;
+    background-color: #f6f6f6;
+}
+.custom-main-left .card{
+    margin-bottom: 10px;
+}
+.custom-main-right .custom-title{
+    width: max-content;
+    border-bottom: 2px solid #a22f36;
+    margin: 20px auto;
+
+}
+.custom-main-right .custom-title a{
+    text-decoration: none;
+    color: #000;
+}
+.custom-product{
+    margin-top: 30px;
+}
+.custom-main-btn{
+    margin: 15px auto;
+}
+.footer{
+    background-color: #303030;
+    color: #fff;
+    margin-top: 30px;
+    padding-bottom: 45px;
+}
+.footer-text h3{
+    padding: 15px 0px;
+    font-size: 20px; 
+}
+.footer-text h4{
+    font-size: 16px; 
+}
+.footer-text h4 i{
+    padding-right: 15px;  
+}
+
